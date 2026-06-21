@@ -1,24 +1,24 @@
-# U4 — RAW Bench Material
+# U4 — RAW
 
-U4 ist ein neutraler Bench-Respo.  
-Er enthält Stationen, Items und Operator-Material für einfache RAW-Tests.
-
-## Inhalt
-/items  
-- station-01.bench.item  
-- station-02.bench.item  
-- u4-bench-plan.item  
-- u4-operator.item  
-
-## Zweck
-U4 dient als Behälter für Bench-Dateien.  
-Keine Logik, keine Engine, keine Interpretation.  
-Nur RAW-Material für Tests und Verhalten.
-
-## Nutzung
-Die Dateien können direkt in Bench-Viewer wie DINOly geladen werden.  
-Jede Station arbeitet unabhängig.
+U4 ist ein neutraler Bench-Respo.
+Er dient als Behälter für RAW-Material.
 
 ## Status
-U4 ist ein reiner Material-Respo.
+index.html: steht
+Respo: aktiv
+Rolle: neutral
+Material: vorhanden
 
+## Position
+12-Raum: stabil
+4-Achse: stabil
+v-Achse: stabil
+Nähe: korrekt
+
+## Verhalten
+Keine Logik.
+Keine Engine.
+Keine Interpretation.
+
+## Zweck
+Bereitstellen von Bench-Material für Tests.
